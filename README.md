@@ -2,5 +2,3 @@ My personal website, built with Next.js.
 
 You can visit the deployed site [here](https://katherinempeterson.com)
 
-# Deploy
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
